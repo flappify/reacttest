@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/aiefreact/static/css/main.cfda8877.chunk.css",
+    "main.js": "/aiefreact/static/js/main.0fc98b07.chunk.js",
+    "main.js.map": "/aiefreact/static/js/main.0fc98b07.chunk.js.map",
+    "runtime-main.js": "/aiefreact/static/js/runtime-main.c612c9cc.js",
+    "runtime-main.js.map": "/aiefreact/static/js/runtime-main.c612c9cc.js.map",
+    "static/js/2.bff9dacb.chunk.js": "/aiefreact/static/js/2.bff9dacb.chunk.js",
+    "static/js/2.bff9dacb.chunk.js.map": "/aiefreact/static/js/2.bff9dacb.chunk.js.map",
+    "index.html": "/aiefreact/index.html",
+    "precache-manifest.b442bdaed3465649c33ab73924d7e42e.js": "/aiefreact/precache-manifest.b442bdaed3465649c33ab73924d7e42e.js",
+    "service-worker.js": "/aiefreact/service-worker.js",
+    "static/css/main.cfda8877.chunk.css.map": "/aiefreact/static/css/main.cfda8877.chunk.css.map"
+  }
+}
